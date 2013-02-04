@@ -57,8 +57,9 @@
 -----------------------------------------------------*/
       
       .hero-unit
-      {background-color: black;
-      border: 1px solid white;}
+      {background-color: white;
+      border: 5px solid black;
+      color: #454545; }
       
       .navbar-inverse .brand
       {
